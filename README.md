@@ -29,3 +29,7 @@ Generated visualizations by incorporating various chart types such as bar charts
 Data Source:
 
 PwC provided the dataset in the form of an Excel file sourced from the Human Resources department of a telecommunications client during the PwC Power BI in Data Analytics Virtual Case Experience. The dataset comprised records of 500 employees, including essential fields such as Employee ID, Gender, Age Group, Job Level after FY20 Promotions, New Hire FY20, FY20 Performance Rating, FY20 Leaver, Last Department in FY20, Time in Job Level, Promotion in FY20, Last Hire Date, among others.
+
+*Conclusion*
+
+This Forage PWC HR Diversity and Inclusion Analysis project plays a crucial role in assessing and monitoring an organization's diversity and inclusion efforts. It offers valuable information for HR managers, suggests actionable recommendations for making informed choices, and helps in encouraging a workplace culture that is more diverse and inclusive.
